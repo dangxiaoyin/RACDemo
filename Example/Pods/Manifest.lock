@@ -1,0 +1,16 @@
+PODS:
+  - RACDemo (0.1.0)
+
+DEPENDENCIES:
+  - RACDemo (from `../`)
+
+EXTERNAL SOURCES:
+  RACDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RACDemo: 00f97eaf9b836a5e8d26bbe97772f7cc979bc75b
+
+PODFILE CHECKSUM: 46c872c1fe05128b5f903737ea9de3396c0e9052
+
+COCOAPODS: 1.6.0
