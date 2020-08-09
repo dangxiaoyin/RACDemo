@@ -18,6 +18,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    UIViewController *vc = [[NSClassFromString(@"RACTextFieldViewController") alloc] init];
+    [self.view addSubview:vc.view];
 }
 
 - (void)didReceiveMemoryWarning

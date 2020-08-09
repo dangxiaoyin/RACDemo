@@ -1,15 +1,22 @@
 PODS:
-  - RACDemo (0.1.0)
+  - RACDemo (0.1.0):
+    - ReactiveObjC (~> 3.1.0)
+  - ReactiveObjC (3.1.0)
 
 DEPENDENCIES:
   - RACDemo (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReactiveObjC
 
 EXTERNAL SOURCES:
   RACDemo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RACDemo: 00f97eaf9b836a5e8d26bbe97772f7cc979bc75b
+  RACDemo: 2415314bbd3f4f8d9454ee45482e553b5b180d9c
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
 
 PODFILE CHECKSUM: 46c872c1fe05128b5f903737ea9de3396c0e9052
 
