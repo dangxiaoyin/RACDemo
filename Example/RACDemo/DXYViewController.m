@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    UIViewController *vc = [[NSClassFromString(@"RACViewController") alloc] init];
+    UIViewController *vc = [[NSClassFromString(@"RACKVOViewController") alloc] init];
     [self.view addSubview:vc.view];
 }
 

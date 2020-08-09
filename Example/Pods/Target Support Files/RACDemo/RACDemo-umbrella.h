@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "RACKVOViewController.h"
 #import "RACViewController.h"
 
 FOUNDATION_EXPORT double RACDemoVersionNumber;
