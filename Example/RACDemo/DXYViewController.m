@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    UIViewController *vc = [[NSClassFromString(@"RACTextFieldViewController") alloc] init];
+    UIViewController *vc = [[NSClassFromString(@"RACCombineViewController") alloc] init];
     [self.view addSubview:vc.view];
 }
 
