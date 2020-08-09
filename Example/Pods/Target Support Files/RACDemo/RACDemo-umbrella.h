@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "RACCombineViewController.h"
 #import "RACKVOViewController.h"
 #import "RACTextFieldViewController.h"
 #import "RACViewController.h"
