@@ -11,7 +11,10 @@
 #endif
 
 #import "RACCombineViewController.h"
+#import "RACDelayViewController.h"
 #import "RACKVOViewController.h"
+#import "RACSequenceViewController.h"
+#import "RACSubjectViewController.h"
 #import "RACTextFieldViewController.h"
 #import "RACViewController.h"
 
